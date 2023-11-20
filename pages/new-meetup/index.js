@@ -1,7 +1,5 @@
 import NewMeetupForm from "../../components/meetups/NewMeetupForm";
 import axios from "axios";
-import {useNavigate} from "react-router-dom";
-import {redirect} from "next/navigation";
 import {useRouter} from "next/router";
 import Head from "next/head";
 
