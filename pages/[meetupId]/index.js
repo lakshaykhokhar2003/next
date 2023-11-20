@@ -1,4 +1,4 @@
-import MeetupDetail from "../../../../components/meetups/MeetupDetails";
+import MeetupDetail from "../../components/meetups/MeetupDetails";
 import {MongoClient, ObjectId} from "mongodb";
 import Head from "next/head";
 

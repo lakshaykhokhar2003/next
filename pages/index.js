@@ -1,4 +1,4 @@
-import MeetupList from "../../../components/meetups/MeetupList";
+import MeetupList from "../components/meetups/MeetupList";
 import {Fragment, useEffect, useState} from "react";
 import {MongoClient} from "mongodb";
 import Head from "next/head";
